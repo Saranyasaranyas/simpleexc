@@ -5,12 +5,11 @@ This is First line for pull request test
 This is second line!.
 
 
-and third  it mean it.....
+and third ,on the master branch
 
 
 Thanking you!!.
 
-saranya 
-working in middle...
+
 
 
